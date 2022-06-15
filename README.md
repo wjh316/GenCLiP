@@ -1,6 +1,7 @@
 # GenCLiP
-The new website of GenCLiP 3 is : http://cismu.net/genclip3/
-GenCLiP 2 is : http://cismu.net/GenCLiP2/
+The new website of GenCLiP 3: http://cismu.net/genclip3/
+
+GenCLiP 2.0 : http://cismu.net/GenCLiP2/
 
 
 The paper of GenCLiP 3:
