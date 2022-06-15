@@ -1,5 +1,5 @@
 # GenCLiP
-The new website of GenCLiP 3: http://cismu.net/genclip3/
+The new web site of GenCLiP 3: http://cismu.net/genclip3/
 
 GenCLiP 2.0 : http://cismu.net/GenCLiP2/
 
